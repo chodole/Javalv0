@@ -14,7 +14,7 @@ public class 논리3_개념02_철수암호2 {
 				그숫자가 철수의 암호와 일치하면 true 를 출력하는 식을 작성하시오.
 			[예시]
 				랜덤 : 21
-				true
+				true 
 		*/
 		Random ran = new Random();
 		int a = ran.nextInt(90) + 10;
